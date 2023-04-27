@@ -1,0 +1,62 @@
+[
+    {
+    "id": 1,
+    "full_name": "Shakib Al Hasan",
+    "image": "https://i0.wp.com/insiderion.com/wp-content/uploads/2020/06/Shakib-Al-Hasan.jpg?fit=715%2C402&ssl=1",
+    "born": "1987-03-24",
+    "age": 35,
+    "national_side": "Bangladesh",
+    "playing_style": "All-Rounder",
+    "ranking": 2
+    },
+    {
+    "id": 2,
+    "full_name": "Virat Kohli",
+    "image": "https://data1.ibtimes.co.in/en/full/720262/virat-kohli.jpg?h=450&l=50&t=40",
+    "born": "1988-11-05",
+    "age": 34,
+    "national_side": "India",
+    "playing_style": "Batsman",
+    "ranking": 1
+    },
+    {
+    "id": 3,
+    "full_name": "Mahendra Singh Dhoni",
+    "image": "https://crictv4u.com/wp-content/uploads/2022/06/Ms-Dhoni-%E2%80%93-1832-Boundaries.jpg",
+    "born": "1981-07-07",
+    "age": 41,
+    "national_side": "India",
+    "playing_style": "WicketKeeper-batter",
+    "ranking": 21
+    },
+    {
+    "id": 4,
+    "full_name": "Mashrafe Bin Mortoza",
+    "image": "https://bangladeshpost.net/webroot/uploads/featureimage/2020-09/5f57930e329a1.jpg",
+    "born": "1983-10-05",
+    "age": 39,
+    "national_side": "Bangladesh",
+    "playing_style": "Bowler",
+    "ranking": 9
+    },
+    {
+    "id": 5,
+    "full_name": "Kane Williamson",
+    "image": "https://images.news18.com/ibnlive/uploads/2022/06/kane-williamson-ap-16559627163x2.jpg?impolicy=website&width=510&height=356",
+    "born": "1990-08-08",
+    "age": 32,
+    "national_side": "New Zealand",
+    "playing_style": "Batsman",
+    "ranking": 2
+    },
+    {
+    "id": 6,
+    "full_name": "Mitchell Starc",
+    "image": "https://images.hindustantimes.com/img/2021/10/27/550x309/CRICKET-T20WORLDCUP-AUS-ZAF--33_1635343852168_1635343864717.JPG",
+    "born": "1990-01-30",
+    "age": 33,
+    "national_side": "Australia",
+    "playing_style": "Bowler",
+    "ranking": 2
+    }
+    ]

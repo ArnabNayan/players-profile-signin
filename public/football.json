@@ -1,0 +1,68 @@
+[
+    {
+    "id": 1,
+    "full_name": "Lionel Messi",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKdOjUY8i3HXqPC1ai-VtxlITa6sHrsTixCg&usqp=CAU",
+    "born": "1987-06-24",
+    "age": 35,
+    "national_side": "Argentina",
+    "club": "Paris Saint-Germain",
+    "market_value": "$100 million",
+    "playing_position": "Forward"
+    },
+    {
+    "id": 2,
+    "full_name": "Cristiano Ronaldo",
+    "image": "https://i0.wp.com/ghanasoccernet.com/bookmaker-ratings/wp-content/uploads/sites/7/2022/09/2882888-59365768-2560-1440.jpg?fit=650%2C366&ssl=1",
+    "born": "1985-02-05",
+    "age": 38,
+    "national_side": "Portugal",
+    "club": "Manchester United",
+    "market_value": "$80 million",
+    "playing_position": "Forward"
+    },
+    {
+    "id": 3,
+    "full_name": "Kylian Mbappé",
+    "image": "https://staticg.sportskeeda.com/editor/2021/07/03179-16253080977968-800.jpg",
+    "born": "1998-12-20",
+    "age": 24,
+    "national_side": "France",
+    "club": "Paris Saint-Germain",
+    "market_value": "$200 million",
+    "playing_position": "Forward"
+    },
+    {
+    "id": 4,
+    "full_name": "Virgil van Dijk",
+    "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/08/04/16/1159514634.jpg?quality=75&height=166&fit=bounds&format=pjpg&crop=16%3A9%2Coffset-y0.5&auto=webp",
+    "born": "1991-07-08",
+    "age": 31,
+    "national_side": "Netherlands",
+    "club": "Liverpool",
+    "market_value": "$70 million",
+    "playing_position": "Defender"
+    },
+    {
+    "id": 5,
+    "full_name": "Kevin De Bruyne",
+    "image": "https://ds.static.rtbf.be/article/image/370xAuto/0/4/9/94cb02feb750f20bad8a85dfe7e18d11-1652450166.jpg",
+    "born": "1991-06-28",
+    "age": 31,
+    "national_side": "Belgium",
+    "club": "Manchester City",
+    "market_value": "$120 million",
+    "playing_position": "Midfielder"
+    },
+    {
+    "id": 6,
+    "full_name": "Neymar Jr",
+    "image": "https://www.shutterstock.com/image-photo/moscow-russia-june-27-2018-260nw-1283476216.jpg",
+    "born": "1992-02-05",
+    "age": 31,
+    "national_side": "Brazil",
+    "club": "Paris Saint-Germain",
+    "market_value": "$150 million",
+    "playing_position": "Forward"
+    }
+]
